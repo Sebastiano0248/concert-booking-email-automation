@@ -1,0 +1,10 @@
+# Private data
+real_mails/*
+
+# environment
+.env
+venv
+
+# __pycache__
+__pycache__/
+*.pyc

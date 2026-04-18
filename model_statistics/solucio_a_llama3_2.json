@@ -1,0 +1,272 @@
+{
+  "experiment_id": "solucio_a_llama3_2",
+  "solucio": "A",
+  "model": "llama3.2",
+  "backend": "local",
+  "data": "2026-04-18",
+  "emails": [
+    {
+      "id": 1,
+      "assumpte": "Contratación actuación Fiesta Mayor 2026",
+      "eines_cridades": [
+        "enviar_resposta"
+      ],
+      "tool_schema_errors": 0,
+      "json_valid": true,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "demanar_info",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 2,
+      "assumpte": "concierto para mi bar",
+      "eines_cridades": [
+        "enviar_resposta"
+      ],
+      "tool_schema_errors": 0,
+      "json_valid": true,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 3,
+      "assumpte": "Solicitud de actuación musical - Festival de Verano",
+      "eines_cridades": [],
+      "tool_schema_errors": 1,
+      "json_valid": false,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "fallada",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 4,
+      "assumpte": "concierto en el barrio",
+      "eines_cridades": [
+        "enviar_resposta"
+      ],
+      "tool_schema_errors": 0,
+      "json_valid": true,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 5,
+      "assumpte": "Propuesta actuación otoño 2026",
+      "eines_cridades": [
+        "enviar_resposta"
+      ],
+      "tool_schema_errors": 0,
+      "json_valid": true,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "demanar_info",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": false
+    },
+    {
+      "id": 6,
+      "assumpte": "Demande de concert - Festival d'Automne de Perpignan",
+      "eines_cridades": [],
+      "tool_schema_errors": 1,
+      "json_valid": false,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "fallada",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 7,
+      "assumpte": "Invitació per al Cicle de Música d'Estiu 2026",
+      "eines_cridades": [],
+      "tool_schema_errors": 2,
+      "json_valid": false,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "fallada",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 8,
+      "assumpte": "Performance Request - Barcelona Arts Festival 2026",
+      "eines_cridades": [],
+      "tool_schema_errors": 1,
+      "json_valid": false,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "fallada",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 9,
+      "assumpte": "Sol·licitud actuació Fira de Tardor de Reus 2026",
+      "eines_cridades": [],
+      "tool_schema_errors": 2,
+      "json_valid": false,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "fallada",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 10,
+      "assumpte": "Concert de reencuentro - Escola de Música de Manresa",
+      "eines_cridades": [],
+      "tool_schema_errors": 0,
+      "json_valid": true,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "fallada",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": false
+    },
+    {
+      "id": 11,
+      "assumpte": "Actuació musical per a sopar benèfic",
+      "eines_cridades": [],
+      "tool_schema_errors": 0,
+      "json_valid": true,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "fallada",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": false
+    },
+    {
+      "id": 12,
+      "assumpte": "Invitation festival d'été - Mairie de Montpellier",
+      "eines_cridades": [],
+      "tool_schema_errors": 1,
+      "json_valid": false,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "fallada",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": false
+    },
+    {
+      "id": 13,
+      "assumpte": "Consulta disponibilitat 12 de maig",
+      "eines_cridades": [],
+      "tool_schema_errors": 1,
+      "json_valid": false,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "fallada",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": false
+    },
+    {
+      "id": 14,
+      "assumpte": "Gala anual Club Esportiu Sants-Montjuïc",
+      "eines_cridades": [],
+      "tool_schema_errors": 1,
+      "json_valid": false,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "fallada",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": false
+    },
+    {
+      "id": 15,
+      "assumpte": "Actuació musical Festa de Cap d'Any 2026",
+      "eines_cridades": [
+        "enviar_resposta"
+      ],
+      "tool_schema_errors": 0,
+      "json_valid": true,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "desconegut",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": false
+    },
+    {
+      "id": 16,
+      "assumpte": "Actuació musical sopar de Nadal 25 desembre",
+      "eines_cridades": [
+        "enviar_resposta"
+      ],
+      "tool_schema_errors": 1,
+      "json_valid": false,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "demanar_info",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": false
+    },
+    {
+      "id": 17,
+      "assumpte": "Invitació Fira de la Música - Vilafranca del Penedès 2026",
+      "eines_cridades": [],
+      "tool_schema_errors": 0,
+      "json_valid": true,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "fallada",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 18,
+      "assumpte": "Private concert inquiry",
+      "eines_cridades": [
+        "enviar_resposta"
+      ],
+      "tool_schema_errors": 0,
+      "json_valid": true,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 19,
+      "assumpte": "Gala d'Inauguració - Fundació Arte Contemporáneo de Zaragoza",
+      "eines_cridades": [],
+      "tool_schema_errors": 1,
+      "json_valid": false,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "fallada",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": false
+    },
+    {
+      "id": 20,
+      "assumpte": "Concert de jazz al carrer a Vic",
+      "eines_cridades": [
+        "enviar_resposta"
+      ],
+      "tool_schema_errors": 0,
+      "json_valid": true,
+      "camps_extrets": null,
+      "camps_disponibles": null,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    }
+  ],
+  "metriques": {
+    "accuracy": 0.2,
+    "tool_call_success_rate": 0.4,
+    "json_valid_rate": 0.5,
+    "avg_extraccio": null,
+    "score": 0.32
+  }
+}

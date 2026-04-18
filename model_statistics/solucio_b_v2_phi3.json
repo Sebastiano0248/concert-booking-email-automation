@@ -1,0 +1,412 @@
+{
+  "experiment_id": "solucio_b_v2_phi3",
+  "solucio": "B_v2",
+  "model": "phi3",
+  "backend": "local",
+  "data": "2026-04-18",
+  "emails": [
+    {
+      "id": 1,
+      "assumpte": "Contratación actuación Fiesta Mayor 2026",
+      "dades_extretes": {
+        "dia": "2026-08-15",
+        "lloc": null,
+        "tipus_esdeveniment": null,
+        "usuari": "cultura@ajuntament.tortosa.cat",
+        "durada": null,
+        "aforament": 800,
+        "pressostant": "3.000 euros (IVA incluido)",
+        "llengua": "ca"
+      },
+      "json_valid": false,
+      "camps_extrets": 4,
+      "camps_disponibles": 7,
+      "accio": "demanar_info",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 2,
+      "assumpte": "concierto para mi bar",
+      "dades_extretes": {
+        "dia": null,
+        " lloc": "Lleida",
+        "tipus_esdeveniment": "concert",
+        "usuari": "pepe.garcia@gmail.com",
+        "durada": null,
+        "aforament": 60,
+        "pressostat": null,
+        "llengua": "ca"
+      },
+      "json_valid": false,
+      "camps_extrets": 4,
+      "camps_disponibles": 5,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 3,
+      "assumpte": "Solicitud de actuación musical - Festival de Verano",
+      "dades_extretes": {
+        "dia": "2026-07-22",
+        "lloc": null,
+        "tipus_esdeveniment": "Música",
+        "usuari": null,
+        "durada": null,
+        "aforament": "400",
+        "pressost": "2500 EUR",
+        "llengua": "ca"
+      },
+      "json_valid": false,
+      "camps_extrets": 4,
+      "camps_disponibles": 7,
+      "accio": "demanar_info",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 4,
+      "assumpte": "concierto en el barrio",
+      "dades_extretes": {
+        "dia": null,
+        "lloc": "Plaça del Sol",
+        "tipus_esdeveniment": "concierto",
+        "usuari": "associacio.veins.gracia@gmail.com",
+        "durada": null,
+        "aparament": null,
+        "pressost": null,
+        "llengua": "ca"
+      },
+      "json_valid": false,
+      "camps_extrets": 4,
+      "camps_disponibles": 4,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 5,
+      "assumpte": "Propuesta actuación otoño 2026",
+      "dades_extretes": {
+        "dia": "2026-10-03",
+        "lloc": null,
+        "tipus_esdeveniment": null,
+        "usuari": "direccio@espaciocultural-zaragoza.es",
+        "durada": null,
+        "apofortament": "250",
+        "pressostat": "subvenció del Ayuntamiento confirmada/no confirmada (null en aquest cas)",
+        "llengua": null
+      },
+      "json_valid": false,
+      "camps_extrets": 2,
+      "camps_disponibles": 6,
+      "accio": "demanar_info",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": false
+    },
+    {
+      "id": 6,
+      "assumpte": "Demande de concert - Festival d'Automne de Perpignan",
+      "dades_extretes": {
+        "dia": "2026-09-15",
+        "lloc": null,
+        "tipus_esdeveniment": "concert - Festival d'Automne",
+        "usuari": "Association Culturelle de Perpignan",
+        "durada": null,
+        "aforament": "350",
+        "pressostat": "2.000 euros",
+        "llengua": "ca"
+      },
+      "json_valid": false,
+      "camps_extrets": 5,
+      "camps_disponibles": 7,
+      "accio": "demanar_info",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 7,
+      "assumpte": "Invitació per al Cicle de Música d'Estiu 2026",
+      "dades_extretes": {
+        "dia": "2026-06-21",
+        "lloc": null,
+        "tipus_esdeveniment": "invitació per al Cicle de Música d'Estiu",
+        "usuari": "Josep Roca",
+        "durada": null,
+        "aforament": "220",
+        "pressostat": "1800 euros",
+        "llengua": "ca"
+      },
+      "json_valid": false,
+      "camps_extrets": 5,
+      "camps_disponibles": 7,
+      "accio": "demanar_info",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 8,
+      "assumpte": "Performance Request - Barcelona Arts Festival 2026",
+      "dades_extretes": {
+        "dia": "2026-07-05",
+        "lloc": null,
+        "tipus_esdeveniment": null,
+        "usuari": null,
+        "durada": null,
+        "aforament": null,
+        "pressostat": null,
+        "llengua": "ca"
+      },
+      "json_valid": false,
+      "camps_extrets": 2,
+      "camps_disponibles": 7,
+      "accio": "demanar_info",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 9,
+      "assumpte": "Sol·licitud actuació Fira de Tardor de Reus 2026",
+      "dades_extretes": {
+        "dia": "2026-11-14",
+        " lloc ": "Plaça del Mercadal",
+        " tipus_esdeveniment": null,
+        " usuari": "Ajuntament de Reus",
+        " durada": "2 hores",
+        " aforament": 500,
+        " pressostem": "3.500 euros",
+        " llengua": "ca"
+      },
+      "json_valid": false,
+      "camps_extrets": 1,
+      "camps_disponibles": 8,
+      "accio": "demanar_info",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 10,
+      "assumpte": "Concert de reencuentro - Escola de Música de Manresa",
+      "dades_extretes": {
+        "dia": null,
+        "lloc": "Manresa",
+        "tipus_esdeveniment": "Concert de reencuentro",
+        "usuari": "Asociación de Antiguos Alumnos Escola de Música de Manresa",
+        "durada": null,
+        "aforament": "150",
+        "pressostem": "1.200 euros",
+        "llengua": "ca"
+      },
+      "json_valid": false,
+      "camps_extrets": 5,
+      "camps_disponibles": 6,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 11,
+      "assumpte": "Actuació musical per a sopar benèfic",
+      "dades_extretes": {
+        "dia": null,
+        "lloc": null,
+        "tipus_esdeveniment": "actuació musical por sorpresa benéfica",
+        "usuari": {
+          "nombre": "Núria Pons"
+        },
+        "durada": null,
+        "aforament": "120 persones",
+        "pressostat": "1.000 euros",
+        "llengua": "ca/es/fr/en"
+      },
+      "json_valid": false,
+      "camps_extrets": 4,
+      "camps_disponibles": 6,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 12,
+      "assumpte": "Invitation festival d'été - Mairie de Montpellier",
+      "dades_extretes": {
+        "dia": null,
+        "loc": "Montpellier",
+        "tipus_esdeveniment": "festiv', 'durada': null,   # non specified duration mentioned in the text. Therefore we put it as NULL to signify that this information is not available from provided document content and cannot be inferred without any explicit mention of a date or timeframe for such events.  This also demonstrates our effort to avoid assumptions beyond directly stated facts when handling data extraction tasks, which helps maintain accuracy in context representation through JSON structures like the one below: { "
+      },
+      "json_valid": false,
+      "camps_extrets": 1,
+      "camps_disponibles": 6,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 13,
+      "assumpte": "Consulta disponibilitat 12 de maig",
+      "dades_extretes": {
+        "dia": "2026-05-12",
+        "lloc": null,
+        "tipus_esdeveniment": null,
+        "usuari": "ana.garcia@gmail.com",
+        "durada": null,
+        "aforament": null,
+        "pressostat": null,
+        "llengua": null
+      },
+      "json_valid": false,
+      "camps_extrets": 2,
+      "camps_disponibles": 5,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 14,
+      "assumpte": "Gala anual Club Esportiu Sants-Montjuïc",
+      "dades_extretes": {
+        "dia": "2026-08-22",
+        "lloc": null,
+        "tipus_esdeveniment": "ceremonia de premios musical directa con actuación en vivo",
+        "usuari": "Jordi Ferrer",
+        "durada": null,
+        "aforament": "300 personas",
+        "pressostat": "2.200 euros"
+      },
+      "json_valid": false,
+      "camps_extrets": 4,
+      "camps_disponibles": 7,
+      "accio": "demanar_info",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": false
+    },
+    {
+      "id": 15,
+      "assumpte": "Actuació musical Festa de Cap d'Any 2026",
+      "dades_extretes": {
+        "dia": "2026-12-31",
+        "lloc": null,
+        "tipus_esdeveniment": "festa musical",
+        "usuari": "events@hotelpalaudemar.com",
+        "durada": null,
+        "aforament": 180,
+        "pressostat": 2800,
+        "llengua": null
+      },
+      "json_valid": false,
+      "camps_extrets": 4,
+      "camps_disponibles": 7,
+      "accio": "demanar_info",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": false
+    },
+    {
+      "id": 16,
+      "assumpte": "Actuació musical sopar de Nadal 25 desembre",
+      "dades_extretes": {
+        "dia": "2026-12-25",
+        "lloc": null,
+        "tipus_esdeveniment": "cena especial de Navidad con actuación musical en directe",
+        "usuari": "Miquel Torres",
+        "durada": null,
+        "aforament": "60",
+        "pressostant": "1500 euros",
+        "llengua": "ca/es"
+      },
+      "json_valid": false,
+      "camps_extrets": 5,
+      "camps_disponibles": 7,
+      "accio": "demanar_info",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": false
+    },
+    {
+      "id": 17,
+      "assumpte": "Invitació Fira de la Música - Vilafranca del Penedès 2026",
+      "dades_extretes": {
+        "dia": "2026-05-20",
+        " lloc ": "Vila",
+        " tipus_esdeveniment": null,
+        " usuari": null,
+        " durada": "1 hour and 30 minutes",
+        " aforament": "1000",
+        " pressost": "4500 euros",
+        " llengua": null
+      },
+      "json_valid": false,
+      "camps_extrets": 1,
+      "camps_disponibles": 8,
+      "accio": "demanar_info",
+      "accio_esperada": "guardar",
+      "accio_correcta": false
+    },
+    {
+      "id": 18,
+      "assumpte": "Private concert inquiry",
+      "dades_extretes": {
+        "dia": null,
+        "lloc": null,
+        "tipus_esdeveniment": "private concert",
+        "usuari": "michael.brown@email.com",
+        "durada": null,
+        "aforament": null,
+        "pressost": "600 EUR budget and around 40 people expected to host the event.",
+        "llengua": "en"
+      },
+      "json_valid": false,
+      "camps_extrets": 3,
+      "camps_disponibles": 5,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 19,
+      "assumpte": "Gala d'Inauguració - Fundació Arte Contemporáneo de Zaragoza",
+      "dades_extretes": {
+        "dia": "2026-10-03",
+        "lloc": null,
+        "tipus_esdeveniment": "Gala d'Inauguració - Fundació Arte Contemporáneo de Zaragoza",
+        "usuari": "Elena Ruiz",
+        "durada": null,
+        "aforament": "450",
+        "presupost": "3.800 euros",
+        "llengua": "ca"
+      },
+      "json_valid": false,
+      "camps_extrets": 5,
+      "camps_disponibles": 7,
+      "accio": "demanar_info",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": false
+    },
+    {
+      "id": 20,
+      "assumpte": "Concert de jazz al carrer a Vic",
+      "dades_extretes": {
+        "dia": "2026-09-18",
+        "lloc": null,
+        "tipus_esdeveniment": "concert de jazz",
+        "usuari": "info1847263@protonmail.com",
+        "durada": null,
+        "apoartament": null,
+        "pressostat": null,
+        "llengua": "ca"
+      },
+      "json_valid": false,
+      "camps_extrets": 4,
+      "camps_disponibles": 4,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    }
+  ],
+  "metriques": {
+    "accuracy": 0.4,
+    "tool_call_success_rate": null,
+    "json_valid_rate": 0.0,
+    "avg_extraccio": 0.574,
+    "score": 0.372
+  }
+}

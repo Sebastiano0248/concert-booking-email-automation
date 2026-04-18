@@ -1,0 +1,416 @@
+{
+  "experiment_id": "solucio_b_qwen2_5_7b",
+  "solucio": "B",
+  "model": "qwen2.5:7b",
+  "backend": "local",
+  "data": "2026-04-18",
+  "emails": [
+    {
+      "id": 1,
+      "assumpte": "Contratación actuación Fiesta Mayor 2026",
+      "dades_extretes": {
+        "dia": "2026-08-15",
+        "lloc": "Parque de Sant Antoni",
+        "tipus_esdeveniment": "Fiesta Mayor",
+        "usuari": "Marta Solà, Concejalía de Cultura, Ayuntamiento de Tortosa",
+        "durada": null,
+        "aforament": 800,
+        "pressupost": "3.000 euros (IVA incluido)",
+        "llengua": "es"
+      },
+      "json_valid": true,
+      "camps_extrets": 7,
+      "camps_disponibles": 7,
+      "accio": "guardar",
+      "accio_esperada": "guardar",
+      "accio_correcta": true
+    },
+    {
+      "id": 2,
+      "assumpte": "concierto para mi bar",
+      "dades_extretes": {
+        "dia": null,
+        "lloc": "Lleida",
+        "tipus_esdeveniment": "concierto",
+        "usuari": "Pepe García",
+        "durada": null,
+        "aforament": 60,
+        "pressupost": null,
+        "llengua": "es"
+      },
+      "json_valid": true,
+      "camps_extrets": 5,
+      "camps_disponibles": 5,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 3,
+      "assumpte": "Solicitud de actuación musical - Festival de Verano",
+      "dades_extretes": {
+        "dia": "2026-07-22",
+        "lloc": "Castelldefels",
+        "tipus_esdeveniment": "Festival de Música de Verano",
+        "usuari": "Laura Puig",
+        "durada": null,
+        "aforament": 400,
+        "pressupost": "2.500 EUR",
+        "llengua": "ca"
+      },
+      "json_valid": true,
+      "camps_extrets": 7,
+      "camps_disponibles": 7,
+      "accio": "guardar",
+      "accio_esperada": "guardar",
+      "accio_correcta": true
+    },
+    {
+      "id": 4,
+      "assumpte": "concierto en el barrio",
+      "dades_extretes": {
+        "dia": null,
+        "lloc": "Plaza del Sol, Gràcia, Barcelona",
+        "tipus_esdeveniment": "concierto",
+        "usuari": "asociacio.veins.gracia@gmail.com",
+        "durada": null,
+        "aforament": null,
+        "pressupost": null,
+        "llengua": "ca"
+      },
+      "json_valid": true,
+      "camps_extrets": 4,
+      "camps_disponibles": 4,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 5,
+      "assumpte": "Propuesta actuación otoño 2026",
+      "dades_extretes": {
+        "dia": "2026-10-03",
+        "lloc": "Zaragoza",
+        "tipus_esdeveniment": "actuación",
+        "usuari": "Roberto Fuentes",
+        "durada": null,
+        "aforament": 250,
+        "pressupost": null,
+        "llengua": "es"
+      },
+      "json_valid": true,
+      "camps_extrets": 6,
+      "camps_disponibles": 6,
+      "accio": "denegar_data",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": true
+    },
+    {
+      "id": 6,
+      "assumpte": "Demande de concert - Festival d'Automne de Perpignan",
+      "dades_extretes": {
+        "dia": "2026-09-15",
+        "lloc": "Perpignan",
+        "tipus_esdeveniment": "concert",
+        "usuari": "Marie Dupont, Association Culturelle de Perpignan",
+        "durada": null,
+        "aforament": 350,
+        "pressupost": "2.000 euros",
+        "llengua": "fr"
+      },
+      "json_valid": true,
+      "camps_extrets": 7,
+      "camps_disponibles": 7,
+      "accio": "guardar",
+      "accio_esperada": "guardar",
+      "accio_correcta": true
+    },
+    {
+      "id": 7,
+      "assumpte": "Invitació per al Cicle de Música d'Estiu 2026",
+      "dades_extretes": {
+        "dia": "2026-06-21",
+        "lloc": "Girona",
+        "tipus_esdeveniment": "Cicle de Música d'Estiu",
+        "usuari": "Josep Roca",
+        "durada": null,
+        "aforament": 220,
+        "pressupost": "1.800 euros",
+        "llengua": "ca"
+      },
+      "json_valid": true,
+      "camps_extrets": 7,
+      "camps_disponibles": 7,
+      "accio": "guardar",
+      "accio_esperada": "guardar",
+      "accio_correcta": true
+    },
+    {
+      "id": 8,
+      "assumpte": "Performance Request - Barcelona Arts Festival 2026",
+      "dades_extretes": {
+        "dia": "2026-07-05",
+        "lloc": "Barcelona, Palau de la Música",
+        "tipus_esdeveniment": "Performance request",
+        "usuari": "Sarah Johnson",
+        "durada": null,
+        "aforament": 600,
+        "pressupost": "4.000 EUR",
+        "llengua": "ca"
+      },
+      "json_valid": true,
+      "camps_extrets": 7,
+      "camps_disponibles": 7,
+      "accio": "guardar",
+      "accio_esperada": "guardar",
+      "accio_correcta": true
+    },
+    {
+      "id": 9,
+      "assumpte": "Sol·licitud actuació Fira de Tardor de Reus 2026",
+      "dades_extretes": {
+        "dia": "2026-11-14",
+        "lloc": "Plaça del Mercadal",
+        "tipus_esdeveniment": "Fira de Tardor",
+        "usuari": "Carmen Martí, Regidoria de Cultura de l'Ajuntament de Reus",
+        "durada": "2 hores",
+        "aforament": 500,
+        "pressupost": "3.500 euros",
+        "llengua": "ca"
+      },
+      "json_valid": true,
+      "camps_extrets": 8,
+      "camps_disponibles": 8,
+      "accio": "guardar",
+      "accio_esperada": "guardar",
+      "accio_correcta": true
+    },
+    {
+      "id": 10,
+      "assumpte": "Concert de reencuentro - Escola de Música de Manresa",
+      "dades_extretes": {
+        "dia": null,
+        "lloc": "Manresa",
+        "tipus_esdeveniment": "Concert de reencuentro",
+        "usuari": "David Valls",
+        "durada": null,
+        "aforament": 150,
+        "pressupost": "1.200 euros",
+        "llengua": "ca"
+      },
+      "json_valid": true,
+      "camps_extrets": 6,
+      "camps_disponibles": 6,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 11,
+      "assumpte": "Actuació musical per a sopar benèfic",
+      "dades_extretes": {
+        "dia": "2026-04-25",
+        "lloc": null,
+        "tipus_esdeveniment": "actuació musical per a sopar benèfic",
+        "usuari": "Núria Pons, Fundació Solidaritat",
+        "durada": null,
+        "aforament": 120,
+        "pressupost": "1.000 euros",
+        "llengua": "ca"
+      },
+      "json_valid": true,
+      "camps_extrets": 6,
+      "camps_disponibles": 6,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 12,
+      "assumpte": "Invitation festival d'été - Mairie de Montpellier",
+      "dades_extretes": {
+        "dia": null,
+        "lloc": "Montpellier",
+        "tipus_esdeveniment": "festival d'été",
+        "usuari": "François Martin",
+        "durada": null,
+        "aforament": 1000,
+        "pressupost": "3.500 euros",
+        "llengua": "fr"
+      },
+      "json_valid": true,
+      "camps_extrets": 6,
+      "camps_disponibles": 6,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 13,
+      "assumpte": "Consulta disponibilitat 12 de maig",
+      "dades_extretes": {
+        "dia": "2026-05-12",
+        "lloc": "Sabadell",
+        "tipus_esdeveniment": null,
+        "usuari": "Ana García",
+        "durada": null,
+        "aforament": 80,
+        "pressupost": null,
+        "llengua": "es"
+      },
+      "json_valid": true,
+      "camps_extrets": 5,
+      "camps_disponibles": 5,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 14,
+      "assumpte": "Gala anual Club Esportiu Sants-Montjuïc",
+      "dades_extretes": {
+        "dia": "2026-08-22",
+        "lloc": "Pavelló Municipal de Sants-Montjuïc",
+        "tipus_esdeveniment": "Gala anual de reconocimientos",
+        "usuari": "Jordi Ferrer",
+        "durada": null,
+        "aforament": 300,
+        "pressupost": "2.200 euros",
+        "llengua": "es"
+      },
+      "json_valid": true,
+      "camps_extrets": 7,
+      "camps_disponibles": 7,
+      "accio": "denegar_data",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": true
+    },
+    {
+      "id": 15,
+      "assumpte": "Actuació musical Festa de Cap d'Any 2026",
+      "dades_extretes": {
+        "dia": "2026-12-31",
+        "lloc": "Barcelona",
+        "tipus_esdeveniment": "Festa de Cap d'Any amb actuació musical en directe",
+        "usuari": "Laia Ribas, Directora d'Esdeveniments, Hotel Palau de Mar",
+        "durada": null,
+        "aforament": 180,
+        "pressupost": "2.800 euros",
+        "llengua": "ca"
+      },
+      "json_valid": true,
+      "camps_extrets": 7,
+      "camps_disponibles": 7,
+      "accio": "denegar_data",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": true
+    },
+    {
+      "id": 16,
+      "assumpte": "Actuació musical sopar de Nadal 25 desembre",
+      "dades_extretes": {
+        "dia": "2026-12-25",
+        "lloc": "Barcelona",
+        "tipus_esdeveniment": "cena especial de Navidad amb actuació musical en directe",
+        "usuari": "Miquel Torres, Restaurante El Molí",
+        "durada": null,
+        "aforament": 60,
+        "pressupost": "1500 euros",
+        "llengua": "ca"
+      },
+      "json_valid": true,
+      "camps_extrets": 7,
+      "camps_disponibles": 7,
+      "accio": "denegar_data",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": true
+    },
+    {
+      "id": 17,
+      "assumpte": "Invitació Fira de la Música - Vilafranca del Penedès 2026",
+      "dades_extretes": {
+        "dia": "2026-05-20",
+        "lloc": "Plaça de la Vila, Vilafranca del Penedès",
+        "tipus_esdeveniment": "Fira de la Música",
+        "usuari": "Montserrat Cortès",
+        "durada": "1 hora i 30 minuts",
+        "aforament": 1000,
+        "pressupost": "4.500 euros",
+        "llengua": "ca"
+      },
+      "json_valid": true,
+      "camps_extrets": 8,
+      "camps_disponibles": 8,
+      "accio": "guardar",
+      "accio_esperada": "guardar",
+      "accio_correcta": true
+    },
+    {
+      "id": 18,
+      "assumpte": "Private concert inquiry",
+      "dades_extretes": {
+        "dia": null,
+        "lloc": null,
+        "tipus_esdeveniment": "concert",
+        "usuari": "Michael Brown",
+        "durada": null,
+        "aforament": null,
+        "pressupost": "600 EUR",
+        "llengua": "ca"
+      },
+      "json_valid": true,
+      "camps_extrets": 4,
+      "camps_disponibles": 5,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    },
+    {
+      "id": 19,
+      "assumpte": "Gala d'Inauguració - Fundació Arte Contemporáneo de Zaragoza",
+      "dades_extretes": {
+        "dia": "2026-10-03",
+        "lloc": "Zaragoza",
+        "tipus_esdeveniment": "Gala d'Inauguració",
+        "usuari": "Elena Ruiz",
+        "durada": null,
+        "aforament": 450,
+        "pressupost": "3.800 euros",
+        "llengua": "es"
+      },
+      "json_valid": true,
+      "camps_extrets": 7,
+      "camps_disponibles": 7,
+      "accio": "denegar_data",
+      "accio_esperada": "denegar_data",
+      "accio_correcta": true
+    },
+    {
+      "id": 20,
+      "assumpte": "Concert de jazz al carrer a Vic",
+      "dades_extretes": {
+        "dia": "2026-09-18",
+        "lloc": "Vic",
+        "tipus_esdeveniment": "Concert de jazz al carrer",
+        "usuari": null,
+        "durada": null,
+        "aforament": null,
+        "pressupost": null,
+        "llengua": "ca"
+      },
+      "json_valid": true,
+      "camps_extrets": 4,
+      "camps_disponibles": 4,
+      "accio": "demanar_info",
+      "accio_esperada": "demanar_info",
+      "accio_correcta": true
+    }
+  ],
+  "metriques": {
+    "accuracy": 1.0,
+    "tool_call_success_rate": null,
+    "json_valid_rate": 1.0,
+    "avg_extraccio": 0.99,
+    "score": 0.997
+  }
+}
